@@ -1,2 +1,2 @@
-# DataBootcamp_Week5_Day4_Exercise
-Exercises for DataBootcamp Week 5 Day 4
+# Exercises for Naive Bayes and SVM models
+This repor contains all exercises and challenges for Week 5 Day 4.
